@@ -14,6 +14,6 @@ public class PositiveNegativeNumber {
             //xuất
             System.out.println("Number is negative.");
         }
-        return ;
+        sc.close();
     }
 }
