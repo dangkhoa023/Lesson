@@ -18,7 +18,7 @@ public class GreatestNumber {
         }
         // Xuất
         System.out.println("The greatest: " + greatest);
-        return;
+        sc.close();
     }
 }
 
